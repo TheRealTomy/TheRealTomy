@@ -27,6 +27,6 @@ There's no copyright, everything is free to use and distribute ;)
 ## ✉ Contact and more things
 
 * 📧 e-mail: tomas@tomasplaza.com
-* 💎 website: tomasplaza.com
+* 💎 website: https://www.tomasplaza.com
 * 💫 pronouns: He/Him
 * 🌐 language: English or Spanish
