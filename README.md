@@ -3,8 +3,8 @@ Im a nerd that just started in this whole programming thingy
 
 ## Languages 
 * Python (Somewhat decent skill)
-* HTML (
-* Batch(
+* HTML (meh)
+* Batch(kinda something)
 * Node.js (Absolutely inexistent skill but still learning tho)
 
 ## Projects
